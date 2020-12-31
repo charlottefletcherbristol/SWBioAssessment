@@ -17,13 +17,15 @@ for a given protein, which can be deduced solely from the amino acid sequence. T
 
 #### To run:
 
-* Download the ProteinAnalysis.py script and sample data in this repository and store in a working directory.
-* When prompted, enter sample protein sequence via copying and pasting sequence from sample data file.
+* Download the ProteinAnalysis.py script and sample data (SAMPLEDATA_ADAH11Penta1.txt) in this repository and store in a working directory.
+* When prompted (example terminal shown below), enter sample protein sequence via copying and pasting sequence from sample data file.
 
-### ENTER SCREENSHOT - INPUT PROMPT ###
+![Input prompt](screenshot_inputprompt.png)
+
 * Graphs are generated in pop-out windows. These windows must be closed before the remaining code will run.
+* Once the script has finished running, it should resemble the example terminal shown below.
 
-### ENTER SCREENSHOT - END PRODUCT ###
+![End run](screenshot_endrun.png)
 
 #### Input requirements:
 
