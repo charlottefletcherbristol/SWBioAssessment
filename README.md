@@ -23,7 +23,7 @@ for a given protein, which can be deduced solely from the amino acid sequence. T
 ![Input prompt](screenshot_inputprompt.png)
 
 * Graphs are generated in pop-out windows. These windows must be closed before the remaining code will run.
-* Once the script has finished running, it should resemble the example terminal shown below.
+* Once the script has finished running, the terminal should resemble the example terminal given below.
 
 ![End run](screenshot_endrun.png)
 
